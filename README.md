@@ -1,0 +1,2 @@
+# FastCount
+something random lol
